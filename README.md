@@ -31,7 +31,7 @@ format([SpeedKmh],0)+';'+format([Rpms],0)+';'+format([DataCorePlugin.Computed.Fu
 
 
 # Changing the code to use other canbus dashboard
-Find the can.h tab on the sketch, there was the can IDs i use to sen information to the PSA Dashboar.
+Find the can.h tab on the sketch, there was the can IDs i use to send information to the PSA Dashboar.
 
 
 
