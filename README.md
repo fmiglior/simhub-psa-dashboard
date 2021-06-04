@@ -1,5 +1,8 @@
 # simhub-psa-dashboard
 Conect a psa dashboard to the simhub, using canbus commands.
+-
+
+[![](https://img.youtube.com/vi/HzO3Sn_I2l4/0.jpg)](https://www.youtube.com/watch?v=HzO3Sn_I2l4)
 
 ## About
 Using a arduino and a MCP2515, conect a canbus dashboard to any game using the software SIMHUB.
